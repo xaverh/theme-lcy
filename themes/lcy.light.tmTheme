@@ -188,8 +188,6 @@
 			<dict>
 				<key>background</key>
 				<string>#DC241F</string>
-				<key>foreground</key>
-				<string>#Fefefe</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,8 +199,6 @@
 			<dict>
 				<key>background</key>
 				<string>#7AC141</string>
-				<key>foreground</key>
-				<string>#Fefefe</string>
 			</dict>
 		</dict>
 		<dict>
