@@ -10,26 +10,27 @@
 	<string>lcy.light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
-	<key>gutterSettings</key>
+	<!--<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#F5f5f5</string>
+		<string>#Fefefe</string>
 		<key>divider</key>
-		<string>#F5f5f5</string>
+		<string>#Fefefe</string>
 		<key>foreground</key>
 		<string>#323538</string>
 		<key>selectionBackground</key>
-		<string>#F5f5f5</string>
+		<string>#Fefefe</string>
 		<key>selectionForeground</key>
 		<string>#aebbc4</string>
 	</dict>
+	-->
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F5f5f5</string>
+				<string>#Fefefe</string>
 				<key>caret</key>
 				<string>#323538</string>
 				<key>foreground</key>
@@ -188,7 +189,7 @@
 				<key>background</key>
 				<string>#DC241F</string>
 				<key>foreground</key>
-				<string>#F5f5f5</string>
+				<string>#Fefefe</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +202,7 @@
 				<key>background</key>
 				<string>#7AC141</string>
 				<key>foreground</key>
-				<string>#F5f5f5</string>
+				<string>#Fefefe</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,6 +275,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>d1c04c9f-1547-4131-83a0-08d8fb1f3c9b</string>
+	<string>3e57bf90-d612-4375-90e9-458037348ee3</string>
 </dict>
 </plist>
