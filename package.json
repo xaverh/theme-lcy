@@ -1,0 +1,22 @@
+{
+	"name": "theme-lcy",
+	"displayName": "LCY Theme",
+	"description": "A light Visual Studio Code theme inspired by the London Underground",
+	"version": "0.0.1",
+	"publisher": "xaver",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "LCY",
+				"uiTheme": "vs",
+				"path": "./themes/lcy.light.tmTheme"
+			}
+		]
+	}
+}

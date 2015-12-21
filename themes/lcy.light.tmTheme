@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Xaver Hellauer (https://github.com/xaverh)</string>
+	<key>name</key>
+	<string>LCY</string>
+	<key>semanticClass</key>
+	<string>lcy.light</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#F5f5f5</string>
+		<key>divider</key>
+		<string>#F5f5f5</string>
+		<key>foreground</key>
+		<string>#323538</string>
+		<key>selectionBackground</key>
+		<string>#F5f5f5</string>
+		<key>selectionForeground</key>
+		<string>#aebbc4</string>
+	</dict>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F5f5f5</string>
+				<key>caret</key>
+				<string>#323538</string>
+				<key>foreground</key>
+				<string>#323538</string>
+				<key>invisibles</key>
+				<string>#CBDBE5</string>
+				<key>lineHighlight</key>
+				<string>#6A727855</string>
+				<key>selection</key>
+				<string>#CBDBE5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Text</string>
+			<key>scope</key>
+			<string>variable.parameter.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#323538</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Comments</string>
+			<key>scope</key>
+			<string>comment, punctuation.definition.comment</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#6A7278</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>string,include.meta.preprocessor.quoted.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D799AF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Built-in constant</string>
+			<key>scope</key>
+			<string>constant.language, constant.character, constant.other, constant.numeric,token.begin.cdata.definition,token.end.cdata.definition, constant.macro.meta.numeric.preprocessor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DC241F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword, meta.preprocessor, meta.preprocessor.macro, token.keyword.control.import.define</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#007229</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage</string>
+			<key>scope</key>
+			<string>storage, entity.name.tag, comment.documentation.entity.localname.meta.name.tag.xml.cs</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0019A8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inherited class</string>
+			<key>scope</key>
+			<string>entity.other.inherited-class, class-struct-block.entity.inherited.meta.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#E86A10</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function name</string>
+			<key>scope</key>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#63C9B4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function argument</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCE00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library function</string>
+			<key>scope</key>
+			<string>support.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#894E24</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library constant&#x2f;variable</string>
+			<key>scope</key>
+			<string>support.constant, support.other.variable, support.type, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCE00</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library class&#x2f;type</string>
+			<key>scope</key>
+			<string>support.type, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid</string>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#DC241F</string>
+				<key>foreground</key>
+				<string>#F5f5f5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#7AC141</string>
+				<key>foreground</key>
+				<string>#F5f5f5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classes and Templates</string>
+			<key>scope</key>
+			<string>storage.type.template, entity.name.class, meta.class-struct-block entity.name.type, class-struct-block.entity.inherited.meta.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E86A10</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage modifier</string>
+			<key>scope</key>
+			<string>storage.modifier, modifier.storage,meta.modifier, entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00A0E2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>User-defined constant</string>
+			<key>scope</key>
+			<string>macro.meta.name.preprocessor.c</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DC241F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Doc-Comment</string>
+			<key>scope</key>
+			<string>token.comment.block.documentation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6A7278</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>URL</string>
+			<key>scope</key>
+			<string>detected-link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00AFAD</string>
+				<key>fontStyle</key>
+				<string>underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TODO etc</string>
+			<key>scope</key>
+			<string>token.other.variable.lua,todo,xxx,hack,fixme</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fa3c3e</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>d1c04c9f-1547-4131-83a0-08d8fb1f3c9b</string>
+</dict>
+</plist>
