@@ -2,7 +2,7 @@
 	"name": "theme-lcy",
 	"displayName": "LCY Theme",
 	"description": "A light Visual Studio Code theme inspired by the London Underground",
-	"version": "0.0.1",
+	"version": "0.99.1",
 	"publisher": "xaver",
 	"engines": {
 		"vscode": "^0.10.1"
