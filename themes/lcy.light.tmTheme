@@ -148,9 +148,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function argument</string>
+			<string>Variable</string>
 			<key>scope</key>
-			<string>variable.parameter</string>
+			<string>variable.parameter, readwrite.variable</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -177,17 +177,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#5F0D46</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Library class&#x2f;type</string>
-			<key>scope</key>
-			<string>support.type, support.class</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,6 +249,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>c31e144e-d6f6-4d35-b7a4-6d8258bbafd0</string>
+	<string>494fa3c4-8815-418f-8f92-adef81448b3f</string>
 </dict>
 </plist>
