@@ -31,16 +31,20 @@
 			<dict>
 				<key>background</key>
 				<string>#Fefefe</string>
+				<!--
 				<key>caret</key>
 				<string>#323538</string>
+				-->
 				<key>foreground</key>
 				<string>#323538</string>
+				<!--
 				<key>invisibles</key>
 				<string>#CBDBE5</string>
 				<key>lineHighlight</key>
 				<string>#6A727855</string>
 				<key>selection</key>
 				<string>#CBDBE5</string>
+				-->
 			</dict>
 		</dict>
 		<dict>
@@ -249,6 +253,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>494fa3c4-8815-418f-8f92-adef81448b3f</string>
+	<string>8f30c394-5e0b-4479-9884-64bf872e2662</string>
 </dict>
 </plist>
